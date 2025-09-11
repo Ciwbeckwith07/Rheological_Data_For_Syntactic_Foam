@@ -1,3 +1,5 @@
 # Rheological_Data_For_Syntactic_Foam
-The repository contains the temperature, shear rate, and viscosity data for various compositions of syntactic foams using hollow glass microspheres for vat photopolymerization additive manufacturing. 
-these files were exported from Anton Paar Rheocompas.
+This dataset contains raw viscosity measurements exported directly from an Anton Paar rheometer using RheoCompass software.
+The files correspond to experiments conducted on composite resin formulations at varying hollow glass microsphere (HGM) loadings, shear rates, and temperatures.
+
+Each file represents a single test run and includes both numeric measurement data and instrument-generated metadata blocks.
